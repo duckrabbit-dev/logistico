@@ -1,6 +1,6 @@
 # Process LOGISTICO
 
-![drawing-logistico-process.excalidraw](./drawing-logistico-process.excalidraw)
+[drawing-logistico-process.excalidraw](./drawing-logistico-process.excalidraw)
 <img src="./drawing-logistico-process.svg">
 
 A tout moment, si quelquechose sort du protocole, il faut ouvrir un tiquet pour demander quoi faire ?
