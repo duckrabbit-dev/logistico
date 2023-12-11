@@ -5,6 +5,9 @@
 
 A tout moment, si quelquechose sort du protocole, il faut ouvrir un tiquet pour demander quoi faire ?
 
+## Ajout D'emplacement Interne (draft)
+*
+
 ## Reception Livraison Fournisseur (draft)
 * Ouvrir l'ecran des receptions 
 > codebarre / operation / receptions
