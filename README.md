@@ -50,13 +50,15 @@ Pousser le Chariot Réception jusqu'à la Réserve.
 * Répeter pour tout les groupe de produits
 * Valider la mise en réserve.
 
+## OPERATION: Transfert Interne
+* Ouvrir le module "Code-Barres"
+* Cliquer sur "OPERATIONS"
+* Cliquer sur "Transfert internes"
+* Cliquer sur NOUVEAU
+* Scanner l'emplacement d'origine
+* Scanner le produit transférer
+* Scanner l'emplacement de destination
 
-
-
-## Transfert interne (draft)	
-* Scanner WH-INTERNAL
-* Scanner le produit a bougé
-* Scanner le nouvel emplacement
 
 ## Preparation commande client (draft)
 * Ouvrir l'ecran des "codebarre/operation/livraisons"
