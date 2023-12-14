@@ -57,7 +57,10 @@ Pousser le Chariot Réception jusqu'à la Réserve.
 * Cliquer sur NOUVEAU
 * Scanner l'emplacement d'origine
 * Scanner le produit transférer
+* Ajouter les quantités si besoin
 * Scanner l'emplacement de destination
+* Recommencer l'opération pour chaque groupe de produit si besoin
+* Valider le transfert
 
 
 ## Preparation commande client (draft)
