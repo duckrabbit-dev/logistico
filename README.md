@@ -5,6 +5,17 @@
 
 A tout moment, si quelquechose sort du protocole, il faut ouvrir un tiquet pour demander quoi faire ?
 
+## OPERATION: Ajout d'emplacements
+* Ouvrir le module "Inventaire"
+* Cliquer sur "Configuration" puis "Emplacements"
+* Cliquer sur "NOUVEAU"
+* Selectionner l'emplacement parent: "PROGE/Stock/Picking"
+* Renseigner "Nom de l'emplacement" et "Code-barres" avec le scan du code barre de l'emplacement
+* Enregistrer l'emplacement
+* si on veut ajouter un autre emplacement, cliquer sur "Action", puis "Dupliquer" et continuer
+* Renseigner "Nom de l'emplacement" et "Code-barres" avec le scan du code barre de l'emplacement
+* Enregistrer l'emplacement
+
 ## Problème: Demande d'Ajout D'emplacement Interne
 * Ouvrir le module "Projet"
 * Ouvrir le projet "Logistics"
