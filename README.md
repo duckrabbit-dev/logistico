@@ -73,10 +73,26 @@ Pousser le Chariot Réception jusqu'à la Réserve.
 * Recommencer l'opération pour chaque groupe de produit si besoin
 * Valider le transfert
 
-
 ## Preparation commande client (draft)
-* Ouvrir l'ecran des "codebarre/operation/livraisons"
-* Selectionner une livraison
+* Ouvrir le module "Inventaire"
+* Cliquer sur "Livraison Petit Produit"
+* Ouvrir une opération
+* Vérifier que dans l'onglet "Info Complémentaire", le transporteur soit "Swisspost Shipping Service", si ce n'est pas le cas, sélectionner "Swisspost Shipping Service"
+* Revenir dans l'onglet "Opérations détaillées"
+* Chercher les produits à leur emplacement
+* Renseigner les quantités traitées pour chaque produit dans la colonne "Fait"
+* Mettre en colis
+* Cliquer sur "Valider"
+* Télécharger depuis le Chatter l'étiquette pour la livraison Swisspost
+* Imprimer l'étiquette sur l'imprimante Zebra
+* Coller l'étiquette sur le colis
+* Mettre le colis dans le chariot SwissPost
+
+## Imprimer avec l'imprimante Zebra (draft)
+* Télécharger le fichier ZPL à Imprimer
+* Ouvrir l'application Zebra
+* Vérifier que l'imprimante est connecté
+* Ouvrir le fichier ZPL depuis l'application Zebra
 
 ## Retour Client (draft)
 
