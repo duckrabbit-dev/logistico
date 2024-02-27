@@ -73,6 +73,14 @@ Pousser le Chariot Réception jusqu'à la Réserve.
 * Recommencer l'opération pour chaque groupe de produit si besoin
 * Valider le transfert
 
+## OPERATION: Ajustements d'inventaire
+* Ouvrir le module "Code-Barres"
+* Cliquer sur "Ajustements d'inventaire"
+* Scanner l'emplacement
+* Scanner le code-barre du produit autant de fois qu'il y a de produits, ou ajuster la quantité
+* Répéter l'opération
+* Valider en appliquant l'ajustement (cliquer "Appliquer")
+
 ## Preparation commande client (draft)
 * Ouvrir le module "Inventaire"
 * Cliquer sur "Livraison Petit Produit"
@@ -90,9 +98,9 @@ Pousser le Chariot Réception jusqu'à la Réserve.
 
 ## Imprimer avec l'imprimante Zebra (draft)
 * Télécharger le fichier ZPL à Imprimer
-* Ouvrir l'application Zebra
-* Vérifier que l'imprimante est connecté
-* Ouvrir le fichier ZPL depuis l'application Zebra
+* Ouvrir l'application Zebra "Printer Setup"
+* Vérifier que l'imprimante est connecté, sinon cliquer sur "Détecter des imprimantes", puis sélectionner une imprimante
+* Ouvrir le fichier ZPL depuis l'application Zebra en cliquant sur "Fichier Disponible" puis en selectionnant le fichier
 
 ## Retour Client (draft)
 * Nous Contacter
