@@ -94,7 +94,7 @@ Pousser le Chariot Réception jusqu'à la Réserve.
 * Télécharger depuis le Chatter l'étiquette pour la livraison Swisspost
 * Imprimer l'étiquette sur l'imprimante Zebra
 * Coller l'étiquette sur le colis
-* Mettre le colis dans le chariot SwissPost
+* Mettre le colis dans le chariot SwissPost Economy
 
 ## Imprimer avec l'imprimante Zebra (draft)
 * Télécharger le fichier ZPL à Imprimer
