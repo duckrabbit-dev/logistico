@@ -132,6 +132,25 @@ Si probleme à une étape, enregistrer une log note en tagant @support-logistic
 * Scanner le produit en question
 * Ouvrir le fichier ZPL depuis l'application Zebra en cliquant sur "Fichier Disponible" puis en selectionnant le fichier
 
+### Problème: problème de correspondance de code-barre entre Odoo et le scanner (problème UPC-EAN)
+
+**Contexte :** Le scanner lit un UPC alors que le code-barre enregistré dans Odoo est un EAN, ce qui peut causer des erreurs de reconnaissance du produit si un zéro précède le code-barre mais n'est pas inclus lors du scan.
+
+**Solution :** Pour résoudre ce problème, suivez ces étapes dans les systèmes Odoo et MaytreeX.
+
+**Dans Odoo :**
+1. **Modifier le code-barre :**
+   - Naviguez vers **Inventaire > Produits > Produits**.
+   - Sélectionnez le produit concerné, retirez le zéro initial du code-barre et cliquez sur **Sauvegarder**.
+
+**Dans MaytreeX :**
+1. **Mettre à jour le produit :**
+> Pour les opérations suivantes il faut être un employé Duckrabbit et avoir accès aux permissions suivantes dans la MaytreeX: editor, moderator, reviewer
+   - Connectez-vous à [MaytreeX](https://maytreex.dr01.duckrabbit.de/products/).
+   - Recherchez et sélectionnez le produit, passez-le en mode **Draft** (To archive > Unarchive).
+   - Supprimez l'EAN, entrez un UPC sans le zéro initial, puis sauvegardez.
+   - Soumettez le produit pour révision en choisissant **Under review** (submit for review) et finalisez par **Approved** (approve).
+
 ## Retour Client (draft)
 * Nous Contacter
 
