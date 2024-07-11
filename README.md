@@ -7,8 +7,6 @@ A tout moment, si quelquechose sort du protocole, il faut ouvrir un tiquet pour 
 
 Vous pouvez exécuter toutes les opérations avec l'application "code-barres". Vous pouvez la trouver sur Odoo sous le nom "Code-barres". À partir de là, vous pouvez entrer dans le tableau de bord en appuyant sur "Opérations". De là, vous pouvez lancer une opération en appuyant sur "À TRAITER".
 
-PICKING EN FRANÇAIS DOIT ÉGALEMENT ÊTRE TRADUIT PAR "PICKING"
-----
 ### Réception des colis fournisseurs
 
 1. Apportez les colis en picking et uniquement si cela n'est pas possible, en réserve.
